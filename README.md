@@ -1,8 +1,8 @@
 # eventur_event
 
-eventId: keygen
-eventName: String
-description: String
-date: Date
-duration: String
-venueId: foreign key
+eventId: keygen<br/>
+eventName: String<br/>
+description: String<br/>
+date: Date<br/>
+duration: String<br/>
+venueId: foreign key<br/>
